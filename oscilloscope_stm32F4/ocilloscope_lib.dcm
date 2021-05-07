@@ -1,0 +1,30 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AMS1117-1.2
+D 1A LOW DROPOUT VOLTAGE REGULATOR
+F http://www.advanced-monolithic.com/pdf/ds1117.pdf
+$ENDCMP
+#
+$CMP AQY210EH
+D photomos relay 350V AQY210EH
+F https://na.industrial.panasonic.com/products/relays/semiconductor-relays/photomos-relays/series/photomos-ge-1-form-dip4-pin-type/1902/model/AQY210EH
+$ENDCMP
+#
+$CMP MCP6S21-I_SN
+D 1-Chan 12MHz SPI PGA,MCP6S21-I/SN
+F http://ww1.microchip.com/downloads/en/DeviceDoc/21117B.pdf
+$ENDCMP
+#
+$CMP STM32F411CEU6_-_UFQFPN48
+D ARM Cortex-M4 MCU, 256KB flash, 128KB RAM, 100MHz, 1.7-3.6V, 36 GPIO, UFQFPN-48
+K ARM Cortex-M4 STM32F4 STM32F411
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00115249.pdf
+$ENDCMP
+#
+$CMP STM32F411CEUx
+D ARM Cortex-M4 MCU, 512KB flash, 128KB RAM, 100MHz, 1.7-3.6V, 36 GPIO, UFQFPN-48
+K ARM Cortex-M4 STM32F4 STM32F411
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00115249.pdf
+$ENDCMP
+#
+#End Doc Library

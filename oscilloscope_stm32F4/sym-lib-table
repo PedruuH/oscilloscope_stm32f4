@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ocilloscope_lib)(type Legacy)(uri ${KIPRJMOD}/ocilloscope_lib.lib)(options "")(descr ""))
+  (lib (name kit_stm32)(type Legacy)(uri C:/Users/pedro/OneDrive/Faculdade/2020-1/SEMB1/kit_stm32/kit_stm32.lib)(options "")(descr ""))
+)
