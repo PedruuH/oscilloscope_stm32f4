@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP MCP6S21-I_SN
-D 1-Chan 12MHz SPI PGA,MCP6S21-I/SN
-K
-F http://ww1.microchip.com/downloads/en/DeviceDoc/21117B.pdf
-$ENDCMP
-#
-#End Doc Library
