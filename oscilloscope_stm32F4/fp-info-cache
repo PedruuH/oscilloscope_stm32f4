@@ -1,4 +1,4 @@
-19089030242651499
+19095518363059011
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -83027,12 +83027,33 @@ varistor SIOV
 2
 2
 footprints
+CAPC1005X55N
+C0402(BB)
+Capacitor
+0
+2
+2
+footprints
+CrystalSMD
+FA-128 24.0000MB-W0
+Crystal or Oscillator
+0
+4
+4
+footprints
 DIP762W47P254L478H340Q4N
 DIP4
 Relay or Contactor
 0
 4
 4
+footprints
+JZ300
+JZ300-3
+Capacitor
+0
+2
+2
 footprints
 REF2033AIDDCR
 
@@ -83047,6 +83068,13 @@ Integrated Circuit
 0
 8
 8
+footprints
+SOT229P700X180-4N
+3 LEAD SOT-223
+Integrated Circuit
+0
+4
+4
 footprints
 STM32F411CEU6
 
