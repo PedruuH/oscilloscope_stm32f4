@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source "C:\\Users\\pedro\\OneDrive\\Faculdade\\2020-1\\SEMB1\\Projeto Final\\oscilloscope_stm32f4\\oscilloscope_stm32F4\\oscilloscope_stm32F4.sch")
-    (date "26/05/2021 10:25:11")
+    (date "13/06/2021 14:42:52")
     (tool "Eeschema (5.1.9)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
